@@ -1,35 +1,35 @@
 Data Visualization and Analysis of Student Performance Dataset
-I performed five different data visualizations to analyze student performance across various factors, making specific insights more accessible.
-1.	Pie Chart - Race/Ethnicity Distribution:
-•	This visualization makes it easier to understand the demographic composition of the student population
-•	Shows the proportional representation of different racial/ethnic groups
-•	Quickly identifies which groups are majority/minority
-•	Helps in assessing diversity and representation in the dataset
-•	Useful for identifying if any group needs additional support or resources
-2.	Bar Plot - Gender Distribution:
-•	Provides a clear comparison of male vs female student counts
-•	The exact numbers on top of bars make it easy to see the precise gender balance
-•	Helps identify if there's gender disparity in the student population
-•	Useful for gender-based policy making and resource allocation
-•	Makes it simple to spot if any gender is underrepresented
-3.	Swarm Plots - Subject Scores by Gender:
-•	Shows the detailed distribution of scores in each subject (Math, Reading, Writing) by gender
-•	Helps identify gender-based performance patterns in different subjects
-•	Makes it easy to spot outliers and score ranges
-•	Shows if there are any gender-based achievement gaps
-•	Useful for developing targeted academic interventions
-4.	Box Plot - Average Scores by Gender:
-•	Displays the statistical distribution of average scores between genders
-•	Shows median, quartiles, and outliers clearly
-•	Makes it easy to compare overall academic performance between genders
-•	Helps identify if there's a significant performance gap between genders
-•	Useful for understanding score variability within each gender group
-5.	Bar Plot - Parental Education vs Average Score:
-•	Shows the relationship between parental education and student performance
-•	Makes it easy to identify which parental education levels correlate with higher/lower student scores
-•	Helps understand the impact of family background on academic performance
-•	Useful for developing targeted support programs based on family background
-•	Aids in identifying where additional educational support might be needed
+  I performed five different data visualizations to analyze student performance across various factors, making specific insights more accessible.
+1.Pie Chart - Race/Ethnicity Distribution:
+  •	This visualization makes it easier to understand the demographic composition of the student population
+  •	Shows the proportional representation of different racial/ethnic groups
+  •	Quickly identifies which groups are majority/minority
+  •	Helps in assessing diversity and representation in the dataset
+  •	Useful for identifying if any group needs additional support or resources
+2.Bar Plot - Gender Distribution:
+  •	Provides a clear comparison of male vs female student counts
+  •	The exact numbers on top of bars make it easy to see the precise gender balance
+  •	Helps identify if there's gender disparity in the student population
+  •	Useful for gender-based policy making and resource allocation
+  •	Makes it simple to spot if any gender is underrepresented
+3.Swarm Plots - Subject Scores by Gender:
+  •	Shows the detailed distribution of scores in each subject (Math, Reading, Writing) by gender
+  •	Helps identify gender-based performance patterns in different subjects
+  •	Makes it easy to spot outliers and score ranges
+  •	Shows if there are any gender-based achievement gaps
+  •	Useful for developing targeted academic interventions
+4.Box Plot - Average Scores by Gender:
+  •	Displays the statistical distribution of average scores between genders
+  •	Shows median, quartiles, and outliers clearly
+  •	Makes it easy to compare overall academic performance between genders
+  •	Helps identify if there's a significant performance gap between genders
+  •	Useful for understanding score variability within each gender group
+5.Bar Plot - Parental Education vs Average Score:
+  •	Shows the relationship between parental education and student performance
+  •	Makes it easy to identify which parental education levels correlate with higher/lower student scores
+  •	Helps understand the impact of family background on academic performance
+  •	Useful for developing targeted support programs based on family background
+  •	Aids in identifying where additional educational support might be needed
 These visualizations together provide a comprehensive understanding of demographic factors affecting student performance and help in data-driven decision-making for educational improvements.
 
 
